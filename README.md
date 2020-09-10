@@ -41,4 +41,3 @@
 ![image](https://user-images.githubusercontent.com/60876477/92683061-dc85df80-f36c-11ea-987a-997de3e2a917.png)
 ![image](https://user-images.githubusercontent.com/60876477/92683073-e7d90b00-f36c-11ea-8a8a-6c619c9a474e.png)
 
-5.
