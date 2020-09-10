@@ -1,4 +1,4 @@
-# 2019_JAVA_-
+# 2019_JAVA_산성비 타자게임
 
  JAVA GUI 컴포넌트
  
@@ -26,6 +26,19 @@
 떨어지는 단어가 더 이상 없다면 입력한 학번 이름 그리고 맞춘 점수를 표시해줍니다.
 
 2. 기능적 부분
+
+
 ![image](https://user-images.githubusercontent.com/60876477/92682846-523d7b80-f36c-11ea-9fef-bd67968a7da0.png)
 
+3. 클래스
+
+![image](https://user-images.githubusercontent.com/60876477/92682902-739e6780-f36c-11ea-9a4e-946b879ce810.png)
+
+4. 동작화면
+
 ![1](https://user-images.githubusercontent.com/60876477/92682652-d80cf700-f36b-11ea-8152-5e4e48e512f9.PNG)
+![image](https://user-images.githubusercontent.com/60876477/92683027-c546f200-f36c-11ea-819a-b68b15464849.png)
+![image](https://user-images.githubusercontent.com/60876477/92683061-dc85df80-f36c-11ea-987a-997de3e2a917.png)
+![image](https://user-images.githubusercontent.com/60876477/92683073-e7d90b00-f36c-11ea-8a8a-6c619c9a474e.png)
+
+5.
